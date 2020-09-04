@@ -4,8 +4,8 @@ This is the android LiveData demo.
 
 
 ## Screenshots
-<img src="/screenshots/photo_1.png" height="400px"/> <img src="/screenshots/photo_2.png" height="400px"/>
-<img src="/screenshots/photo_3.png" height="400px"/>
+<img src="/screenshots/Photo_1.png" height="400px"/> <img src="/screenshots/Photo_2.png" height="400px"/>
+<img src="/screenshots/Photo_3.png" height="400px"/>
 
 
 ## Contact
