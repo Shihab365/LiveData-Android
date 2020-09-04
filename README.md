@@ -1,6 +1,6 @@
 # LiveData Android
 
-This is the android LiveData demo.
+This is the Android LiveData demo.
 
 
 ## Screenshots
